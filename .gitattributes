@@ -1,0 +1,2 @@
+original_files/* filter=lfs diff=lfs merge=lfs -text
+processed_files/* filter=lfs diff=lfs merge=lfs -text
